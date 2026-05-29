@@ -1,16 +1,5 @@
 """
-DataDome fingerprint payload builder.
-Generates maximally realistic browser fingerprint signals for jspl encryption.
-
-Usage:
-    from builder import build_payload
-    from crypto import encrypt
-
-    payload = build_payload()
-    jspl = encrypt(payload, ddjskey="YOUR_KEY", cid="SESSION_CID")
-
-    # Or with custom profile:
-    payload = build_payload(profile="chrome_win10", url="https://www.etsy.com/")
+If U SKID Please give me creds xd
 """
 
 import json
